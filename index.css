@@ -1,0 +1,19 @@
+.root {
+	width: 70%;
+	height: 70vh;
+	border-right: 1px solid red;
+	border-left: 1px solid red;
+	margin: auto;
+}
+
+.card {
+	box-shadow: 4px 4px 0;
+
+	width: 500px;
+	height: 500px;
+}
+
+.card__title {
+	height: 250px;
+	background-color: aqua;
+}
